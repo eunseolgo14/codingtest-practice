@@ -115,9 +115,9 @@
       <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-09_lank_search/notes.md">[바로가기]</a></td>
     </tr>
     <tr>
-      <td nowrap><nobr>2025/10/09</nobr></td>
+      <td nowrap><nobr>2025/10/10</nobr></td>
       <td>shared_taxi_fare</td>
-      <td nowrap><a href="">[바로가기]</a></td>
+      <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-10_shared_taxi_fare/notes.md">[바로가기]</a></td>
     </tr>
   </table>
 </p>
