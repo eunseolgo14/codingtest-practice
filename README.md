@@ -105,6 +105,11 @@
       <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-06_calc_parking_fee/notes.md">[바로가기]</a></td>
     </tr>
     <tr>
+      <td nowrap><nobr>2025/10/07</nobr></td>
+      <td>archery_contest</td>
+      <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-07_archery_contest/notes.md">[바로가기]</a></td>
+    </tr>
+    <tr>
       <td nowrap><nobr>2025/10/09</nobr></td>
       <td>parentheses_transformation</td>
       <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-09_parentheses_transformation/notes.md">[바로가기]</a></td>
