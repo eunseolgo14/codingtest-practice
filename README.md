@@ -124,6 +124,11 @@
       <td>shared_taxi_fare</td>
       <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-10_shared_taxi_fare/notes.md">[바로가기]</a></td>
     </tr>
+    <tr>
+      <td nowrap><nobr>2025/10/15</nobr></td>
+      <td>shortest_game_map</td>
+      <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-15_shortest_game_map/notes.md">[바로가기]</a></td>
+    </tr>
   </table>
 </p>
 
