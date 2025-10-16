@@ -36,7 +36,7 @@
 ---
 ## 헷갈렸던 것/ 새로 배운 것
 <p align="center">
-   <img src="./assets/advertisement_insertion_1.png" alt="Route Optimization" width="100%"/>
+   <img src="../assets/advertisement_insertion_1.png" alt="Route Optimization" width="50%"/>
 </p>
 
 - 누적합을 2번 수행하는 이유:
