@@ -47,90 +47,100 @@
 ---
 
 ## 📌 풀이 기록 (Solved Problems)
-<p align="center">
-  <table>
-    <colgroup>
-    <col width="140" /> 
-    <col width="360" />
-    <col width="500" />
-    </colgroup>
-    <tr>
-      <th>날짜(Date)</th>
-      <th>파일명(File Name)</th>
-      <th>링크(Link)</th>
-    </tr>
-    <tr>
-      <td nowrap><nobr>2025/10/02</nobr></td>
-      <td>new_id_recommendation</td>
-      <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-02_new_id_recommendation/notes.md">[바로가기]</a></td>
-    </tr>
-    <tr>
-      <td nowrap><nobr>2025/10/02</nobr></td>
-      <td>pressing_key_pad</td>
-      <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-02_pressing_key_pad/notes.md">[바로가기]</a></td>
-    </tr>
-    <tr>
-      <td nowrap><nobr>2025/10/02</nobr></td>
-      <td>string_in_number_and_words</td>
-      <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-02_string_in_number_and_words/notes.md">[바로가기]</a></td>
-    </tr>
-     <tr>
-      <td nowrap><nobr>2025/10/03</nobr></td>
-      <td>path_find_game</td>
-      <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-03_path_find_game/notes.md">[바로가기]</a></td>
-    </tr>
-    <tr>
-      <td nowrap><nobr>2025/10/03</nobr></td>
-      <td>stage_fail_rate</td>
-      <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-03_stage_fail_rate/notes.md">[바로가기]</a></td>
-    </tr>
-    <tr>
-      <td nowrap><nobr>2025/10/03</nobr></td>
-      <td>truck_passing_through_bridge</td>
-      <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-03_truck_passing_through_bridge/notes.md">[바로가기]</a></td>
-    </tr>
-    <tr>
-      <td nowrap><nobr>2025/10/04</nobr></td>
-      <td>proccess</td>
-      <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-04_proccess/notes.md">[바로가기]</a></td>
-    </tr>
-    <tr>
-      <td nowrap><nobr>2025/10/06</nobr></td>
-      <td>move_trough_blocks</td>
-      <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-06_move_trough_blocks/notes.md">[바로가기]</a></td>
-    </tr>
-    <tr>
-      <td nowrap><nobr>2025/10/06</nobr></td>
-      <td>calc_parking_fee</td>
-      <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-06_calc_parking_fee/notes.md">[바로가기]</a></td>
-    </tr>
-    <tr>
-      <td nowrap><nobr>2025/10/07</nobr></td>
-      <td>archery_contest</td>
-      <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-07_archery_contest/notes.md">[바로가기]</a></td>
-    </tr>
-    <tr>
-      <td nowrap><nobr>2025/10/09</nobr></td>
-      <td>parentheses_transformation</td>
-      <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-09_parentheses_transformation/notes.md">[바로가기]</a></td>
-    </tr>
-    <tr>
-      <td nowrap><nobr>2025/10/09</nobr></td>
-      <td>lank_search</td>
-      <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-09_lank_search/notes.md">[바로가기]</a></td>
-    </tr>
-    <tr>
-      <td nowrap><nobr>2025/10/10</nobr></td>
-      <td>shared_taxi_fare</td>
-      <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-10_shared_taxi_fare/notes.md">[바로가기]</a></td>
-    </tr>
-    <tr>
-      <td nowrap><nobr>2025/10/15</nobr></td>
-      <td>shortest_game_map</td>
-      <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-15_shortest_game_map/notes.md">[바로가기]</a></td>
-    </tr>
-  </table>
-</p>
+> 전체 목록은 Details 블록으로 구성되어 클릭으로 펼쳐보실 수 있습니다.</br>
+> The full list is organized into collapsible Details blocks that you can click to expand.
+<details> 
+  <summary> 전체 목록 보기 (View Full List)</summary>
+  <p align="center">
+    <table>
+      <colgroup>
+      <col width="140" /> 
+      <col width="360" />
+      <col width="500" />
+      </colgroup>
+      <tr>
+        <th>날짜(Date)</th>
+        <th>파일명(File Name)</th>
+        <th>링크(Link)</th>
+      </tr>
+      <tr>
+        <td nowrap><nobr>2025/10/02</nobr></td>
+        <td>new_id_recommendation</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-02_new_id_recommendation/notes.md">[바로가기]</a></td>
+      </tr>
+      <tr>
+        <td nowrap><nobr>2025/10/02</nobr></td>
+        <td>pressing_key_pad</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-02_pressing_key_pad/notes.md">[바로가기]</a></td>
+      </tr>
+      <tr>
+        <td nowrap><nobr>2025/10/02</nobr></td>
+        <td>string_in_number_and_words</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-02_string_in_number_and_words/notes.md">[바로가기]</a></td>
+      </tr>
+       <tr>
+        <td nowrap><nobr>2025/10/03</nobr></td>
+        <td>path_find_game</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-03_path_find_game/notes.md">[바로가기]</a></td>
+      </tr>
+      <tr>
+        <td nowrap><nobr>2025/10/03</nobr></td>
+        <td>stage_fail_rate</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-03_stage_fail_rate/notes.md">[바로가기]</a></td>
+      </tr>
+      <tr>
+        <td nowrap><nobr>2025/10/03</nobr></td>
+        <td>truck_passing_through_bridge</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-03_truck_passing_through_bridge/notes.md">[바로가기]</a></td>
+      </tr>
+      <tr>
+        <td nowrap><nobr>2025/10/04</nobr></td>
+        <td>proccess</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-04_proccess/notes.md">[바로가기]</a></td>
+      </tr>
+      <tr>
+        <td nowrap><nobr>2025/10/06</nobr></td>
+        <td>move_trough_blocks</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-06_move_trough_blocks/notes.md">[바로가기]</a></td>
+      </tr>
+      <tr>
+        <td nowrap><nobr>2025/10/06</nobr></td>
+        <td>calc_parking_fee</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-06_calc_parking_fee/notes.md">[바로가기]</a></td>
+      </tr>
+      <tr>
+        <td nowrap><nobr>2025/10/07</nobr></td>
+        <td>archery_contest</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-07_archery_contest/notes.md">[바로가기]</a></td>
+      </tr>
+      <tr>
+        <td nowrap><nobr>2025/10/09</nobr></td>
+        <td>parentheses_transformation</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-09_parentheses_transformation/notes.md">[바로가기]</a></td>
+      </tr>
+      <tr>
+        <td nowrap><nobr>2025/10/09</nobr></td>
+        <td>lank_search</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-09_lank_search/notes.md">[바로가기]</a></td>
+      </tr>
+      <tr>
+        <td nowrap><nobr>2025/10/10</nobr></td>
+        <td>shared_taxi_fare</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-10_shared_taxi_fare/notes.md">[바로가기]</a></td>
+      </tr>
+      <tr>
+        <td nowrap><nobr>2025/10/15</nobr></td>
+        <td>shortest_game_map</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-15_shortest_game_map/notes.md">[바로가기]</a></td>
+      </tr>
+      <tr>
+        <td nowrap><nobr>2025/10/16</nobr></td>
+        <td>advertisement_insertion</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-16_advertisement_insertion/notes.md">[바로가기]</a></td>
+      </tr>
+    </table>
+  </p>
+</details>
 
 ---
 
