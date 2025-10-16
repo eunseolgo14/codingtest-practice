@@ -138,6 +138,11 @@
         <td>advertisement_insertion</td>
         <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-16_advertisement_insertion/notes.md">[바로가기]</a></td>
       </tr>
+      <tr>
+        <td nowrap><nobr>2025/10/16</nobr></td>
+        <td>disc_controller</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-16_disc_controller/notes.md">[바로가기]</a></td>
+      </tr>
     </table>
   </p>
 </details>
