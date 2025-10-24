@@ -143,6 +143,16 @@
         <td>disc_controller</td>
         <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-16_disc_controller/notes.md">[바로가기]</a></td>
       </tr>
+       <tr>
+        <td nowrap><nobr>2025/10/20</nobr></td>
+        <td>delivery</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-20_delivery/notes.md">[바로가기]</a></td>
+      </tr>
+       <tr>
+        <td nowrap><nobr>2025/10/24</nobr></td>
+        <td>integer_triangle</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-24_integer_triangle/notes.md">[바로가기]</a></td>
+      </tr>
     </table>
   </p>
 </details>
