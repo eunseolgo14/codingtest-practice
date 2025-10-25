@@ -158,6 +158,16 @@
         <td>expression_maximization</td>
         <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-24_expression_maximization/notes.md">[바로가기]</a></td>
       </tr>
+      <tr>
+        <td nowrap><nobr>2025/10/25</nobr></td>
+        <td>farthest_node</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-25_farthest_node/notes.md">[바로가기]</a></td>
+      </tr>
+      <tr>
+        <td nowrap><nobr>2025/10/25</nobr></td>
+        <td>gem_shopping</td>
+        <td nowrap><a href="https://github.com/eunseolgo14/codingtest-practice/blob/main/2025-10-25_gem_shopping/notes.md">[바로가기]</a></td>
+      </tr>
     </table>
   </p>
 </details>
